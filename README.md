@@ -21,7 +21,16 @@ Creating an efficient and user-friendly online code editor could contribute to t
 
 
 
+## Demo
+
+https://shoaibbshaikhh.github.io/code-editor/
+
+
 ## Authors
 
 - [@shoaibbshaikhh](https://www.github.com/shoaibbshaikhh)
 
+
+## Feedback
+
+If you have any feedback, please reach out to us at shoaibbshaikhhbusiness@gmail.com
