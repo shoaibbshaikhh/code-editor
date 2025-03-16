@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTlKJc220qHgpWWPkKxKz1KRvaqGR4XY9CeocUoi7aNZZSvyi58_ejYrjhqUqndsM-gbEk07O9ZQ9boEYPF8AMDGj0bDZ-U71G6GYG3pg9vEpyDRDVElW6mMac9G_V-uthaZvhU8LqFi4mc5WlboOosH0ENysLXfviqvooSj57uhcCwpZHSXj-j-Y_T46Q/s1225/Screenshot%20from%202024-02-08%2017-01-11.png)
+![App Screenshot](https://github.com/shoaibbshaikhh/code-editor/raw/main/logo.png)
 
 It provides a convenient environment for developers to work collaboratively, share code snippets, and test their programs in real-time. 
 
